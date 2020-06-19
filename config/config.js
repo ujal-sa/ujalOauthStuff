@@ -28,7 +28,7 @@ exports.creds = {
     responseMode: 'form_post', 
   
     // Required, the reply URL registered in AAD for your app
-    redirectUrl: '/auth/openid/return', 
+    redirectUrl: 'https://webapp-ujaloauthstuff-production.playground.radix.equinor.com/auth/openid/return', 
   
     // Required if we use http for redirectUrl
     allowHttpForRedirectUrl: true,
