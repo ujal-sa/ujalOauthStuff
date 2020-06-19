@@ -22,7 +22,7 @@ spec:
         - environment: production
           variables:
             TENANTID: "3aa4a235-b6e2-48d5-9195-7fcf05b459b0"
-            CLIENTID: "bc5ee045-a194-4c04-acf9-1718f58bf5c6"
+            CLIENTID: "e9583180-ceac-40e3-90c7-fd7c6e39b968"
             NODE_ENV: "development"
       secrets:
         - CLIENTSECRET
